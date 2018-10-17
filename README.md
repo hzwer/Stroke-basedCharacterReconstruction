@@ -18,7 +18,9 @@ $ source activate py36
 * [PyTorch](http://pytorch.org/) 0.4 
 * [tensorboardX](https://github.com/lanpa/tensorboard-pytorch/tree/master/tensorboardX)
 * [opencv-python](https://pypi.org/project/opencv-python/)
-**If you find this repository useful for your research, please cite the following paper :**
+**
+
+If you find this repository useful for your research, please cite the following paper :**
 
 ```
 @article{huang2018stroke,
