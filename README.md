@@ -2,6 +2,8 @@
 
 ---> https://arxiv.org/abs/1806.08990 
 
+Please see my extended work，https://github.com/megvii-research/ICCV2019-LearningToPaint
+
 ## Abstract
 
 Character reconstruction for noisy character images or character images from real scene is still a challenging problem, due to the bewildering backgrounds, uneven illumination, low resolution and different distortions. We propose a stroke-based character reconstruction(SCR) method that use a weighted quadratic Bezier curve(WQBC) to represent strokes of a character. Only training on our synthetic data, our stroke extractor can achieve excellent reconstruction effect in real scenes. Meanwhile. It can also help achieve great ability in defending adversarial attacks of character recognizers.  
