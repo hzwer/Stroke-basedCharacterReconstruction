@@ -2,7 +2,7 @@
 
 ---> https://arxiv.org/abs/1806.08990 
 
-Please see my extended work，https://github.com/megvii-research/ICCV2019-LearningToPaint
+Please refer to our extended work，https://github.com/megvii-research/ICCV2019-LearningToPaint
 
 ## Abstract
 
@@ -20,17 +20,7 @@ $ source activate py36
 * [PyTorch](http://pytorch.org/) 0.4 
 * [tensorboardX](https://github.com/lanpa/tensorboard-pytorch/tree/master/tensorboardX)
 * [opencv-python](https://pypi.org/project/opencv-python/)
-**
 
-If you find this repository useful for your research, please cite the following paper :**
-
-```
-@article{huang2018stroke,
-  title={Stroke-based Character Reconstruction},
-  author={Huang, Zhewei and Heng, Wen and Tao, Yuanzheng and Zhou, Shuchang},
-  journal={arXiv preprint arXiv:1806.08990},
-  year={2018}
-}
 ```
 ## Reference
 
